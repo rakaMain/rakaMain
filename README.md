@@ -30,7 +30,7 @@ Selamat datang di profil saya — di sini saya simpan proyek, video, dan sumber 
   </a>
 </p>
 
-<p align="center">
+<p align="left">
   <a href="https://youtu.be/sZGBaXVn3KU?si=qBdcJ8FsG20-E7nE">
     <img src="https://ytcards.demolab.com/?id=sZGBaXVn3KU&title=Video+Title+Not+Fetched+(please+provide+title)&lang=en&timestamp=1753290000&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5" alt="Video Title Not Fetched" />
   </a>
