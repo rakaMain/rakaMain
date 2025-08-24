@@ -18,7 +18,7 @@ Selamat datang di profil saya — di sini saya simpan proyek, video, dan sumber 
 
 ## 🎥 Featured YouTube Videos
 
-<p align="center">
+<p align="left">
   <a href="https://youtu.be/wXIEJ8ZV_c8?si=EQQ1ehX3NpS83UrN">
     <img src="https://ytcards.demolab.com/?id=wXIEJ8ZV_c8&title=Cara+Install+Debian+12+di+VMware+-+Tutorial+Lengkap+untuk+Pemula+2025&lang=en&timestamp=1753290000&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=436" alt="Cara Install Debian 12 di VMware - Tutorial Lengkap untuk Pemula 2025" />
   </a>
