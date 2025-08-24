@@ -19,4 +19,14 @@ Selamat datang di profil saya — di sini saya simpan proyek, video, dan sumber 
 ## 🎥 Featured YouTube Videos
 [![Cara Install Debian 12 di VMware - Tutorial Lengkap untuk Pemula 2025](https://ytcards.demolab.com/?id=wXIEJ8ZV_c8&title=Cara+Install+Debian+12+di+VMware+-+Tutorial+Lengkap+untuk+Pemula+2025&lang=en&timestamp=1753290000&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=436 "Cara Install Debian 12 di VMware - Tutorial Lengkap untuk Pemula 2025")](https://youtu.be/wXIEJ8ZV_c8?si=EQQ1ehX3NpS83UrN)
 
+[![Belajar Pandas 00 : Setup Jupyter Notebook dan pandas dengan venv](https://ytcards.demolab.com/?id=I6YB5xnHpYw&title=Belajar+Pandas+00+%3A+Setup+Jupyter+Notebook+dan+pandas+dengan+venv&lang=en&timestamp=1753290000&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Belajar Pandas 00 : Setup Jupyter Notebook dan pandas dengan venv")](https://youtu.be/I6YB5xnHpYw?si=HbHK1wLxo9oJa3uB)
+
+[![Cara Mudah Setup Access Point di Cisco Packet Tracer untuk Pemula | Wireless Network](https://ytcards.demolab.com/?id=p70B8xhbKNs&title=Cara+Mudah+Setup+Access+Point+di+Cisco+Packet+Tracer+untuk+Pemula+%7C+Wireless+Network&lang=en&timestamp=1753290000&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Cara Mudah Setup Access Point di Cisco Packet Tracer untuk Pemula | Wireless Network")](https://youtu.be/p70B8xhbKNs?si=N94Pe4BxiNI0T4nj)
+
+[![Video Title Not Fetched (please provide title)](https://ytcards.demolab.com/?id=sZGBaXVn3KU&title=Video+Title+Not+Fetched+(please+provide+title)&lang=en&timestamp=1753290000&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Video Title Not Fetched (please provide title)")](https://youtu.be/sZGBaXVn3KU?si=qBdcJ8FsG20-E7nE)
+
+[![Video Title Not Fetched (please provide title)](https://ytcards.demolab.com/?id=1ZvA0sqyO8A&title=Video+Title+Not+Fetched+(please+provide+title)&lang=en&timestamp=1753290000&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Video Title Not Fetched (please provide title)")](https://youtu.be/1ZvA0sqyO8A?si=UHaUcD5GKuEQ1ZNQ)
+
+[![Cara Membuat Topologi Jaringan di VMware - Tutorial Lengkap LAN Segment](https://ytcards.demolab.com/?id=QL0U1dD57IE&title=Cara+Membuat+Topologi+Jaringan+di+VMware+-+Tutorial+Lengkap+LAN+Segment&lang=en&timestamp=1753290000&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Cara Membuat Topologi Jaringan di VMware - Tutorial Lengkap LAN Segment")](https://youtu.be/QL0U1dD57IE?si=unhwkrsosY9Y_P9x)
+
 
