@@ -4,7 +4,7 @@
 berbagi tutorial singkat tentang produktivitas, server, dan tools dev.  <br/>
 Selamat datang di profil saya — di sini saya simpan proyek, video, dan sumber belajar 🙌 <br/>
 
-![](https://github-readme-stats.vercel.app/api?username=rakaMain&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=rakaMain&theme=dark&hide_border=false)<br/>
 
 ## 🔭 Saat ini
 
