@@ -34,9 +34,11 @@ Selamat datang di profil saya — di sini saya simpan proyek, video, dan sumber 
   <a href="https://youtu.be/sZGBaXVn3KU?si=qBdcJ8FsG20-E7nE">
     <img src="https://ytcards.demolab.com/?id=sZGBaXVn3KU&title=Video+Title+Not+Fetched+(please+provide+title)&lang=en&timestamp=1753290000&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5" alt="Video Title Not Fetched" />
   </a>
-  <a href="https://youtu.be/1ZvA0sqyO8A?si=UHaUcD5GKuEQ1ZNQ">
+    
+ <a href="https://youtu.be/1ZvA0sqyO8A?si=UHaUcD5GKuEQ1ZNQ">
     <img src="https://ytcards.demolab.com/?id=1ZvA0sqyO8A&title=Video+Title+Not+Fetched+(please+provide+title)&lang=en&timestamp=1753290000&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5" alt="Video Title Not Fetched" />
   </a>
+  
   <a href="https://youtu.be/QL0U1dD57IE?si=unhwkrsosY9Y_P9x">
     <img src="https://ytcards.demolab.com/?id=QL0U1dD57IE&title=Cara+Membuat+Topologi+Jaringan+di+VMware+-+Tutorial+Lengkap+LAN+Segment&lang=en&timestamp=1753290000&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5" alt="Cara Membuat Topologi Jaringan di VMware - Tutorial Lengkap LAN Segment" />
   </a>
