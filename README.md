@@ -36,7 +36,7 @@ Selamat datang di profil saya — di sini saya simpan proyek, video, dan sumber 
   </a>
     
   <a href="https://youtu.be/iiCTDuBnHTM?si=O4-VF5DtZS3YA3OW">
-    <img src="https://ytcards.demolab.com/?id=iiCTDuBnHTM&title=Video+Title+Not+Fetched+(please+provide+title)&lang=en&timestamp=1753290000&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5" alt="Membangun Jaringan Sederhana dengan DHCP DNS Web Server di VMware Debian 12" />
+    <img src="https://ytcards.demolab.com/?id=iiCTDuBnHTM&title=Membangun+Jaringan+Sederhana+dengan+DHCP+DNS+Web+Server+di+VMware+Debian+12&lang=en&timestamp=1753290000&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5" alt="Membangun Jaringan Sederhana dengan DHCP DNS Web Server di VMware Debian 12" />
   </a>
   
   <a href="https://youtu.be/QL0U1dD57IE?si=unhwkrsosY9Y_P9x">
