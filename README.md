@@ -30,9 +30,8 @@ Selamat datang di profil saya — di sini saya simpan proyek, video, dan sumber 
   </a>
 </p>
 
-<p align="left">
-  <a href="https://youtu.be/sZGBaXVn3KU?si=qBdcJ8FsG20-E7nE">
-    <img src="https://ytcards.demolab.com/?id=sZGBaXVn3KU&title=Video+Title+Not+Fetched+(please+provide+title)&lang=en&timestamp=1753290000&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5" alt="Video Title Not Fetched" />
+  <a href="https://youtu.be/PX7b0KPDCIo?si=01d2ucK3RkXjrXIh">
+    <img src="https://ytcards.demolab.com/?id=PX7b0KPDCIo&title=Cara+Install+dan+Setting+SSH+Server+di+Linux+Debian+12+%7C+Tutorial+Lengkap+untuk+Pemula&lang=en&timestamp=1753290000&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5" alt="Cara Install dan Setting SSH Server di Linux Debian 12 | Tutorial Lengkap untuk Pemula" />
   </a>
     
   <a href="https://youtu.be/iiCTDuBnHTM?si=O4-VF5DtZS3YA3OW">
